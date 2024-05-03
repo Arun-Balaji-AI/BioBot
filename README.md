@@ -1,9 +1,9 @@
-BioBot
+BioBot🔬🤖
 ======
 
 BioBot is a RAG (Retrieval-Augmented Generation) based chatbot designed to provide answers to medical and biological queries and questions. It utilizes the PubMedQA dataset available in Hugging Face for its knowledge base. The technology stack includes Chainlit, Nomic AI's embedding model, Gemini, Langchain, and ChromaDB.
 
-Installation
+Installation🛠️
 ------------
 
 To run BioBot, follow these steps:
@@ -21,22 +21,20 @@ pip install -r requirements.txt
 4.  Finally, start the application by running **app.py**.
     
 
-Usage
+Usage🚀
 -----
 
 Once the application is running, users can interact with BioBot to ask medical and biological questions. The chatbot leverages its knowledge base to provide informative responses.
 
-Contribution
+Contribution🤝
 ------------
 
-Feel free to contribute to this project by suggesting improvements or enhancements. We are constantly working on making BioBot more responsive and accurate in answering queries.
+Feel free to contribute to this project by suggesting improvements or enhancements. I am working on making BioBot more responsive and accurate in answering queries.
 
-Feedback
+Feedback📣
 --------
 
-If you have any queries or suggestions for improvement, don't hesitate to reach out. Your feedback is invaluable in making BioBot a more useful tool for exploring medical and biological topics.
+If you have any queries or suggestions for improvement, feel free to contact. 
 
-Have Fun Exploring!
--------------------
+Have Fun Exploring!🔍🎉
 
-Enjoy using BioBot and exploring the vast realm of medical and biological knowledge it can provide!
