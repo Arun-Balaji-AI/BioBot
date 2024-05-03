@@ -1,7 +1,6 @@
 """"
 This program stores the text data in vector database. Here we have used ChromaDB for storing the text data and semantic chunker to split the texts.
 """
-#from langchain_experimental.text_splitter import SemanticChunker
 from langchain_community.document_loaders import TextLoader , DirectoryLoader
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
