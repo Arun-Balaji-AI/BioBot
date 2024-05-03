@@ -7,6 +7,7 @@ Installation
 ------------
 
 To run BioBot, follow these steps:
+Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
